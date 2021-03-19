@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="20" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-18T00:50:14 IST" name="my first suite" finished-at="2021-03-18T00:50:14 IST" duration-ms="123">
+    <groups>
+    </groups>
+    <test started-at="2021-03-18T00:50:14 IST" name="my first test" finished-at="2021-03-18T00:50:14 IST" duration-ms="43">
+      <class name="com.testng.AbcTestng">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="beforeTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforethirdClass()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="beforethirdClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforethirdClass -->
+        <test-method signature="VideoCalls()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="VideoCalls" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VideoCalls -->
+        <test-method signature="messaging()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="messaging" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messaging -->
+        <test-method signature="voiceCalls()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="voiceCalls" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- voiceCalls -->
+        <test-method signature="whatsappPayments()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="whatsappPayments" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsappPayments -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="afterTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterthirdClass()[pri:0, instance:com.testng.AbcTestng@44ebcd03]" started-at="2021-03-18T00:50:14 IST" name="afterthirdClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterthirdClass -->
+      </class> <!-- com.testng.AbcTestng -->
+      <class name="com.testng.FirstTestng">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="beforeTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeFirstClass()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="beforeFirstClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeFirstClass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="beforemethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="aafirsttest()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="aafirsttest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aafirsttest -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="aftermethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="beforemethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="abfirsttest()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="abfirsttest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abfirsttest -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="aftermethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="acfirsttest()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="acfirsttest" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acfirsttest -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="beforemethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="aftermethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterFirstClass()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="afterFirstClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterFirstClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testng.FirstTestng@5af3afd9]" started-at="2021-03-18T00:50:14 IST" name="afterTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testng.FirstTestng -->
+      <class name="com.testng.SecondTestng">
+        <test-method is-config="true" signature="beforesecondClass()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="beforesecondClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesecondClass -->
+        <test-method signature="login()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="login" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="contacts()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="contacts" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method signature="logout()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="logout" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="payment()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="payment" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method is-config="true" signature="aftersecondClass()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="aftersecondClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersecondClass -->
+      </class> <!-- com.testng.SecondTestng -->
+    </test> <!-- my first test -->
+    <test started-at="2021-03-18T00:50:14 IST" name="my second test" finished-at="2021-03-18T00:50:14 IST" duration-ms="15">
+      <class name="com.testng.AbcTestng">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="beforeTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="VideoCalls()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="VideoCalls" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VideoCalls -->
+        <test-method is-config="true" signature="beforethirdClass()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="beforethirdClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforethirdClass -->
+        <test-method signature="voiceCalls()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="voiceCalls" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- voiceCalls -->
+        <test-method signature="messaging()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="messaging" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messaging -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="afterTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterthirdClass()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="afterthirdClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterthirdClass -->
+        <test-method signature="whatsappPayments()[pri:0, instance:com.testng.AbcTestng@38c6f217]" started-at="2021-03-18T00:50:14 IST" name="whatsappPayments" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsappPayments -->
+      </class> <!-- com.testng.AbcTestng -->
+      <class name="com.testng.FirstTestng">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="beforeSuite" finished-at="2021-03-18T00:50:14 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeFirstClass()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="beforeFirstClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeFirstClass -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="beforeTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="beforemethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="aftermethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="aafirsttest()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="aafirsttest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aafirsttest -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="aftermethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="abfirsttest()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="abfirsttest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abfirsttest -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="beforemethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="beforemethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="acfirsttest()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="acfirsttest" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acfirsttest -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="aftermethod" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterFirstClass()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="afterFirstClass" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterFirstClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="afterTest" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.testng.FirstTestng@399f45b1]" started-at="2021-03-18T00:50:14 IST" name="afterSuite" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testng.FirstTestng -->
+      <class name="com.testng.SecondTestng">
+        <test-method is-config="true" signature="beforeSuitesecond()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="beforeSuitesecond" finished-at="2021-03-18T00:50:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuitesecond -->
+        <test-method is-config="true" signature="afterSuitesecond()[pri:0, instance:com.testng.SecondTestng@323b36e0]" started-at="2021-03-18T00:50:14 IST" name="afterSuitesecond" finished-at="2021-03-18T00:50:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuitesecond -->
+      </class> <!-- com.testng.SecondTestng -->
+    </test> <!-- my second test -->
+  </suite> <!-- my first suite -->
+</testng-results>

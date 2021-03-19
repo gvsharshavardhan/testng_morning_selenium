@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="grouping">
+    <groups>
+        <define name="bus">
+            <include name="orange"/>
+        </define>
+        <run>
+            <include name="bus"/>
+        </run>
+    </groups>
+    <test name="soft assertion test">
+        <classes>
+            <class name="com.testng.redbus.BookingTests"/>
+            <class name="com.testng.redbus.CancelTicketsTests"/>
+            <class name="com.testng.redbus.LoginTests"/>
+            <class name="com.testng.redbus.PaymentsTests"/>
+        </classes>
+    </test>
+</suite>
